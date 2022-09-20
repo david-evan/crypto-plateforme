@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+ __    ___   _     ___  _____  ___       ___       ___   _      __   _____  ____  ____  ___   ___   _      ____ 
+/ /`  | |_) \ \_/ | |_)  | |  / / \     |___|     | |_) | |    / /\   | |  | |_  | |_  / / \ | |_) | |\/| | |_  
+\_\_, |_| \  |_|  |_|    |_|  \_\_/               |_|   |_|__ /_/--\  |_|  |_|__ |_|   \_\_/ |_| \ |_|  | |_|__ 
+
+------------------------------------------------------------------------------
+
+Bonjour, 
+
+Le backlog du projet "Cypro-Plateforme" a été créé sous JIRA. Les informations ci-après permettent de s'y connecter. 
+
+Le diagramme de gantt fourni (livrable 2) est directement issu de la feuille de route accessible sur ce même JIRA. Bien que 
+l'export visuel puisse être utilisé, l'utilisation de l'outil web est fortement recommandé pour bénéficier de toutes les fonctionnalités.
+
+Bonne lecture, 
+
+David EVAN.
+
+------------------------------------------------------------------------------
+
+
+URL DU BACKLOG : 
+
+https://exanys.atlassian.net/jira/software/c/projects/CPG/boards/4/backlog
+
+
+Login : demo-oc-al-p10@outlook.com
+Mot de passe : OC-AL_Dem0+P10
