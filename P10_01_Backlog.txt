@@ -7,7 +7,7 @@
 
 Bonjour, 
 
-Le backlog du projet "Cypro-Plateforme" a été créé sous JIRA. Les informations ci-après permettent de s'y connecter. 
+Le backlog du projet "Crypto-Plateforme" a été créé sous JIRA. Les informations ci-après permettent de s'y connecter. 
 
 Le diagramme de gantt fourni (livrable 2) est directement issu de la feuille de route accessible sur ce même JIRA. Bien que 
 l'export visuel puisse être utilisé, l'utilisation de l'outil web est fortement recommandé pour bénéficier de toutes les fonctionnalités.
