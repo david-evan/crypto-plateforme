@@ -22,7 +22,3 @@ David EVAN.
 URL DU BACKLOG : 
 
 https://exanys.atlassian.net/jira/software/c/projects/CPG/boards/4/backlog
-
-
-Login : demo-oc-al-p10@outlook.com
-Mot de passe : OC-AL_Dem0+P10
